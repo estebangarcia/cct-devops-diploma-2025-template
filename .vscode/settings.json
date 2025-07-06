@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "api"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestPath": "./.venv/bin/pytest"
+}
